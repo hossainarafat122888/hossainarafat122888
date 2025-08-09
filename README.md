@@ -1,5 +1,3 @@
-hossainarafat122888/README.md
-
 Md. Arafat Hossain
 
 InfoSec | Penetration Tester | YouTuber | Mentor
