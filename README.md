@@ -2,7 +2,7 @@ Md. Arafat Hossain
 
 InfoSec | Penetration Tester | YouTuber | Mentor
 
-Hello! I'm Md. Arafat, IT Security Professional & Have Rich Experience in Ethical Hacking & Web Penetration Testing. Also, I'm verified YouTuber, Instructor & Tech-Enthusiast.
+Hello! I'm Md. Arafat Hossain, IT Security Professional & Have Rich Experience in Ethical Hacking & Web Penetration Testing. Also, I'm verified YouTuber, Instructor & Tech-Enthusiast.
 
 Here is what i'm working on 👋
 
