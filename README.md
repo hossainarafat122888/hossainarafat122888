@@ -1,15 +1,16 @@
-## Hi there 👋
+mehedishakeel/README.md
+Md. Arafat Hossain
+InfoSec | Penetration Tester | YouTuber | Mentor
+Hello! I'm Md. Arafat, IT Security Professional & Have Rich Experience in Ethical Hacking & Web Penetration Testing. Also, I'm verified YouTuber, Instructor & Tech-Enthusiast.
 
-**hossainarafat122888/hossainarafat122888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is what i'm working on 👋
 
-Here are some ideas to get you started:
+🔭 My E-learning Academy.
+🔭 My YouTube Channels @Md.ArafatHossain-AHF.
+🔭 My Courses on Udemy.
+💬 Ask me anything related to infosec, cyber security, ethical hacking, web app pentesting & bug hunting.
+Connect with me:
+ | facebook@hossainarafat122888 | Instagram@hossainarafat122888
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Thank You!
 
